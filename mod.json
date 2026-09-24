@@ -1,0 +1,32 @@
+{
+  "id": "soundpack_3562",
+  "name": "Пользовательский звуковой пак",
+  "version": "1.0.0",
+  "author": "123123",
+  "description": "",
+  "category": "sounds",
+  "tags": [
+    "sound",
+    "audio",
+    "sfx",
+    "circuit04"
+  ],
+  "is_enabled": true,
+  "is_official": false,
+  "downloads_count": 0,
+  "rating": 5.0,
+  "sounds": {
+    "music/Cosmic Horizon (Variant 2).wav": {
+      "file": "sounds/mystic-waters_95066.wav",
+      "volume_db": 0.0,
+      "pitch_scale": 1.0,
+      "original_target": "music/Cosmic Horizon (Variant 2).wav"
+    },
+    "music/cosmic_horizon.ogg": {
+      "file": "sounds/mystic-waters_95066_1.wav",
+      "volume_db": 0.0,
+      "pitch_scale": 1.0,
+      "original_target": "music/cosmic_horizon.ogg"
+    }
+  }
+}
